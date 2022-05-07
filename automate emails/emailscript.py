@@ -6,7 +6,7 @@ import smtplib
 now = dt.datetime.now()
 day = now.isoweekday()
   #setting up email credential
-my_email = 'waheguru.ss19@gmail.com'
+my_email = 'typeyours@email.com'
 password = 'put your password here'
 
 if day == 6:
